@@ -2,3 +2,9 @@
 
 /build
 /.vscode
+/Cmakefile/
+Makefile
+CMakeFiles/**
+static/**
+*.cmake
+CMakeCache.txt
